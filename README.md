@@ -1,8 +1,8 @@
-- 👋 Hi, I’m VMS-ISEP
+- 👋 Hi, I’m Veríssimo Santos
 - 👀 I’m interested in (Ensemble && Deep) Machine Learning
 - 🌱 I’m currently learning new object detection algorithms
 - 💞️ I’m looking to collaborate on Machine Learning Projects
-- 📫 How to reach me vmsATisepDOTipppDOTpt
+- 📫 How to reach me vmsATisepDOTippDOTpt
 
 <!---
 VMS-ISEP/VMS-ISEP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
